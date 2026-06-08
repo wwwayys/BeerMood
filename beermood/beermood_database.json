@@ -1,0 +1,3614 @@
+[
+  {
+    "id": 1,
+    "name": "Пиво Эфес Пилсенер светлое пастеризованное ст",
+    "beer_type": "светлый лагер",
+    "price": 95,
+    "strength": 5.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "name": "Пиво Жигули 1968 светлое фильтрованное пастеризованное ж/б",
+    "beer_type": "светлый лагер",
+    "price": 75,
+    "strength": 4.5,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.43,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "name": "Пиво Балтика №9 Крепкое Легендарное светлое ПЭТ",
+    "beer_type": "крепкий светлый лагер",
+    "price": 160,
+    "strength": 8.0,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 1.2,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "name": "Пиво Охота Крепкое светлое пастеризованное ж/б",
+    "beer_type": "крепкий светлый лагер",
+    "price": 85,
+    "strength": 8.1,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.43,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "name": "Пиво Балтика Классическое №3 светлое пастеризованное ст",
+    "beer_type": "светлый лагер",
+    "price": 85,
+    "strength": 4.8,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "name": "Пиво Балтика №9 Крепкое светлое ж/б",
+    "beer_type": "крепкий светлый лагер",
+    "price": 95,
+    "strength": 8.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "name": "Пиво Ловенбрау светлое ж/б",
+    "beer_type": "светлый лагер",
+    "price": 115,
+    "strength": 5.4,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "name": "Пиво Т9 светлое пастеризованное ж/б",
+    "beer_type": "крепкий светлый лагер",
+    "price": 90,
+    "strength": 8.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "name": "Пиво Бад светлое в стяжке ж/б",
+    "beer_type": "светлый лагер",
+    "price": 105,
+    "strength": 5.0,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "name": "Пиво Гринбит светлое пастеризованное ст",
+    "beer_type": "светлый лагер",
+    "price": 85,
+    "strength": 4.6,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "name": "Пиво Велкопоповицкий Козел светлое ст",
+    "beer_type": "светлый лагер",
+    "price": 115,
+    "strength": 4.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "name": "Пиво Бад светлое ст",
+    "beer_type": "светлый лагер",
+    "price": 110,
+    "strength": 5.0,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.44,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "name": "Пиво Стелла Артуа светлое ст",
+    "beer_type": "светлый лагер",
+    "price": 125,
+    "strength": 5.0,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.44,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "name": "Пиво Москвич светлое пастеризованное ж/б",
+    "beer_type": "светлый лагер",
+    "price": 75,
+    "strength": 4.3,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.43,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "name": "Пиво Эфес Пилсенер светлое ж/б",
+    "beer_type": "светлый лагер",
+    "price": 95,
+    "strength": 5.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "name": "Пиво Жигулевское Бочковое светлое пастеризованное",
+    "beer_type": "светлый лагер",
+    "price": 150,
+    "strength": 5.0,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 1.15,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "name": "Пиво Велкопоповицкий Козел светлое ж/б",
+    "beer_type": "светлый лагер",
+    "price": 110,
+    "strength": 4.0,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "name": "Пиво Охота крепкое светлое ПЭТ",
+    "beer_type": "крепкий светлый лагер",
+    "price": 165,
+    "strength": 8.1,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 1.2,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "name": "Пиво Стелла Артуа светлое ж/б стяжка",
+    "beer_type": "светлый лагер",
+    "price": 130,
+    "strength": 5.0,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "name": "Напиток пивной Хугарден Белое нефильтрованный пастеризованный ж/б",
+    "beer_type": "белое пшеничное",
+    "price": 125,
+    "strength": 4.9,
+    "rating": 4.6,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "name": "Пиво Шпатен Мюнхен Хеллес светлое пастеризованное ст",
+    "beer_type": "хеллес",
+    "price": 145,
+    "strength": 5.2,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "name": "Пиво Шпатен Мюнхен Хеллес светлое ж/б",
+    "beer_type": "хеллес",
+    "price": 140,
+    "strength": 5.2,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "name": "Пиво Жатецкий Гусь светлое пастеризованное стяжка ж/б",
+    "beer_type": "светлый лагер",
+    "price": 100,
+    "strength": 4.6,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "name": "Пиво Ловенбрау светлое ПЭТ",
+    "beer_type": "светлый лагер",
+    "price": 170,
+    "strength": 5.4,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 1.3,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo-svetloe/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "name": "Пиво Ичанг светлое фильтрованное пастеризованное ст",
+    "beer_type": "рисовый светлый лагер",
+    "price": 135,
+    "strength": 3.8,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Китай",
+    "volume_l": 0.62,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_ichang_svetloe_filtrovannoe_pasterizovannoe_st_1/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "name": "Пиво Голд Майн Бир Стронг светлое пастеризованное ПЭТ",
+    "beer_type": "крепкий светлый лагер",
+    "price": 150,
+    "strength": 8.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 1.15,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_gold_mayn_bir_strong_svetloe_pet/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "name": "Пиво Волжская Пивоварня темное ПЭТ",
+    "beer_type": "тёмный лагер",
+    "price": 130,
+    "strength": 4.6,
+    "rating": 4.3,
+    "taste_tags": [
+      "тёмное",
+      "карамельное",
+      "солодовое",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.9,
+    "color": "Темное",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_volzhskaya_pivovarnya_temnoe_pet/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "name": "Пиво Пшеничное мягкое ПЭТ",
+    "beer_type": "пшеничное",
+    "price": 150,
+    "strength": 4.8,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 1.5,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_pshenichnoe_myagkoe_pet/reviews/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "name": "Пиво Живая Варка светлое ПЭТ",
+    "beer_type": "светлое нефильтрованное",
+    "price": 160,
+    "strength": 4.9,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 1.5,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_zhivaya_varka_svetloe_pet/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "name": "Пиво Windmolen Blanche светлое нефильтрованное ст",
+    "beer_type": "бланш",
+    "price": 115,
+    "strength": 4.5,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_windmolen_blanche_svetloe_pasterizovannoe_nefiltrovannoe_st/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "name": "Пиво Сладовар пшеничное белое нефильтрованное ст",
+    "beer_type": "пшеничное белое",
+    "price": 105,
+    "strength": 4.8,
+    "rating": 4.5,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_sladovar_pshenichnoe_beloe_svetloe_nefiltrovannoe_pasterizovannoe_st/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "name": "Пиво Портер темное пастеризованное ст",
+    "beer_type": "портер",
+    "price": 135,
+    "strength": 8.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "смелое"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Темное",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_porter_temnoe_pasterizovannoe/reviews/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "name": "Пиво Ижевское Премиум светлое нефильтрованное ст",
+    "beer_type": "светлое нефильтрованное",
+    "price": 85,
+    "strength": 4.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.33,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_izhevskoe_premium_svetloe_nepasterizovannoe_nefiltrovannoe_neosvetlennoe_st/reviews/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "name": "Напиток пивной Велкопоповицкий Козел темное ж/б",
+    "beer_type": "тёмный лагер",
+    "price": 110,
+    "strength": 3.8,
+    "rating": 4.3,
+    "taste_tags": [
+      "тёмное",
+      "карамельное",
+      "солодовое",
+      "мягкое",
+      "лёгкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "пикник"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "дождь",
+      "вечер",
+      "жарко",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Темное",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/__1339/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "name": "Пиво La Moustache Blanche светлое нефильтрованное ж/б",
+    "beer_type": "бланш",
+    "price": 120,
+    "strength": 4.5,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_la_moustache_blanche_svetloe_paster_nefiltr_zh_b/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "name": "Пиво Старый Мельник из Бочонка Темное Бархатное",
+    "beer_type": "тёмный лагер",
+    "price": 95,
+    "strength": 4.6,
+    "rating": 4.2,
+    "taste_tags": [
+      "тёмное",
+      "карамельное",
+      "солодовое",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Темное",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/__1949/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "name": "Пиво Рижское светлое ж/б",
+    "beer_type": "светлый лагер",
+    "price": 80,
+    "strength": 4.6,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_rizhskoe_svetloe_zh_b/reviews/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "name": "Пиво Бочкарев Живой Розлив светлое ст",
+    "beer_type": "светлый лагер",
+    "price": 90,
+    "strength": 4.7,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.43,
+    "color": "Светлое",
+    "source_site": "Красное&Белое",
+    "source_url": "https://krasnoeibeloe.ru/catalog/rossiyskoe/pivo_bochkarev_zhivoy_rozliv_svetloe_st/",
+    "price_type": "учебная цена: на сайте цена зависит от магазина",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "name": "Пиво Corona Extra",
+    "beer_type": "светлый эль",
+    "price": 130,
+    "strength": 4.5,
+    "rating": 4.8,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Мексика",
+    "volume_l": 0.355,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "name": "Пиво Pilsner Urquell",
+    "beer_type": "пилзнер",
+    "price": 210,
+    "strength": 4.4,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Чехия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "name": "Пиво Budweiser Budvar",
+    "beer_type": "чешский лагер",
+    "price": 200,
+    "strength": 5.0,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Чехия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/budweiser_budwar/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "name": "Пиво Guinness Draught",
+    "beer_type": "стаут",
+    "price": 240,
+    "strength": 4.2,
+    "rating": 4.9,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное",
+      "лёгкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "пикник"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер",
+      "жарко",
+      "лето"
+    ],
+    "country": "Ирландия",
+    "volume_l": 0.44,
+    "color": "Темное",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "name": "Пиво Spaten Muncher Hell",
+    "beer_type": "хеллес",
+    "price": 250,
+    "strength": 5.2,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "name": "Пиво Paulaner Hefe Weißbier Naturtrüb",
+    "beer_type": "пшеничное нефильтрованное",
+    "price": 230,
+    "strength": 5.5,
+    "rating": 4.9,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "name": "Пиво SPATEN Munchen в банке",
+    "beer_type": "хеллес",
+    "price": 140,
+    "strength": 5.2,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "name": "Пиво Krombacher Pils, в банке",
+    "beer_type": "пилзнер",
+    "price": 160,
+    "strength": 4.8,
+    "rating": 4.8,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "name": "Пиво Kasteel Rouge Вишневый Темный",
+    "beer_type": "фруктовый эль",
+    "price": 370,
+    "strength": 8.0,
+    "rating": 5.0,
+    "taste_tags": [
+      "фруктовое",
+      "сладкое",
+      "кислое",
+      "ягодное",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "весёлое",
+      "романтичное",
+      "вечеринка",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "вечер",
+      "лето",
+      "холодно"
+    ],
+    "country": "Бельгия",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/pivnoy_napitok_kasteel_rouge_vishnevyy_temnyy/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "name": "Пиво Жигули Барное",
+    "beer_type": "светлый лагер",
+    "price": 80,
+    "strength": 4.9,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "name": "Пиво Peroni Nastro Azzurro",
+    "beer_type": "светлый лагер",
+    "price": 200,
+    "strength": 5.1,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Италия",
+    "volume_l": 0.33,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "name": "Пиво Murphy's Irish Stout",
+    "beer_type": "стаут",
+    "price": 270,
+    "strength": 4.0,
+    "rating": 4.9,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное",
+      "лёгкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "пикник"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер",
+      "жарко",
+      "лето"
+    ],
+    "country": "Ирландия",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "name": "Пиво Томское Фирменное",
+    "beer_type": "светлый лагер",
+    "price": 140,
+    "strength": 4.6,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "name": "Пиво Paulaner Original Munchner Hell",
+    "beer_type": "хеллес",
+    "price": 250,
+    "strength": 4.9,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "name": "Пиво Hollandia",
+    "beer_type": "светлый лагер",
+    "price": 80,
+    "strength": 4.5,
+    "rating": 4.6,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "name": "Пиво Трое в лодке",
+    "beer_type": "светлый лагер",
+    "price": 140,
+    "strength": 4.5,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "name": "Пиво Heineken",
+    "beer_type": "светлый лагер",
+    "price": 210,
+    "strength": 5.0,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Австрия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "name": "Пиво Балтика 7 Экспортное",
+    "beer_type": "светлый лагер",
+    "price": 100,
+    "strength": 5.4,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "name": "Пиво Prazacka Svetle",
+    "beer_type": "светлый лагер",
+    "price": 220,
+    "strength": 4.0,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Чехия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "name": "Пиво Hofbrau Original",
+    "beer_type": "хеллес",
+    "price": 380,
+    "strength": 5.1,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/alco-is-5.1/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "name": "Пиво Liebenbrau Helles",
+    "beer_type": "хеллес",
+    "price": 200,
+    "strength": 5.1,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/alco-is-5.1/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "name": "Пиво Weihenstephaner Original Helles",
+    "beer_type": "хеллес",
+    "price": 329,
+    "strength": 5.1,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/alco-is-5.1/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "name": "Пиво Berliner Kindl Jubilaums Pilsener",
+    "beer_type": "пилзнер",
+    "price": 200,
+    "strength": 5.1,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/alco-is-5.1/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "name": "Пиво Hofbrau Schwarze Weisse",
+    "beer_type": "темное пшеничное",
+    "price": 260,
+    "strength": 5.1,
+    "rating": 4.8,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/alco-is-5.1/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "name": "Пиво Edelburg Hefeweizen",
+    "beer_type": "пшеничное",
+    "price": 79,
+    "strength": 5.1,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/alco-is-5.1/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "name": "Пиво Bitburger Premium Pils",
+    "beer_type": "пилзнер",
+    "price": 250,
+    "strength": 4.8,
+    "rating": 4.5,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/bitburger_premium_pils_05/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "name": "Пиво Kasteel Rouge",
+    "beer_type": "фруктовый эль",
+    "price": 1000,
+    "strength": 8.0,
+    "rating": 5.0,
+    "taste_tags": [
+      "фруктовое",
+      "сладкое",
+      "кислое",
+      "ягодное",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "весёлое",
+      "романтичное",
+      "вечеринка",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "вечер",
+      "лето",
+      "холодно"
+    ],
+    "country": "Бельгия",
+    "volume_l": 0.75,
+    "color": "Темное",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/kasteel_rouge/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "name": "Пиво Вишневый эль «Чехов»",
+    "beer_type": "фруктовый эль",
+    "price": 199,
+    "strength": 5.5,
+    "rating": 3.0,
+    "taste_tags": [
+      "фруктовое",
+      "сладкое",
+      "кислое",
+      "ягодное"
+    ],
+    "mood_tags": [
+      "весёлое",
+      "романтичное",
+      "вечеринка"
+    ],
+    "weather_tags": [
+      "жарко",
+      "вечер",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.75,
+    "color": "Темное",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/taste-is-fruktovoe/set-is-krepkoe-pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "name": "Пиво Василеостровское Тройной Пшеничный Эль",
+    "beer_type": "пшеничный эль",
+    "price": 199,
+    "strength": 7.0,
+    "rating": 5.0,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.75,
+    "color": "Светлое",
+    "source_site": "Ароматный Мир",
+    "source_url": "https://amwine.ru/catalog/pivo/filter/taste-is-fruktovoe/set-is-krepkoe-pivo/",
+    "price_type": "цена/витринная цена с сайта или округление витринной цены",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "name": "Пивной напиток Amsterdam Navigator светлое",
+    "beer_type": "светлый лагер",
+    "price": 120,
+    "strength": 7.0,
+    "rating": 4.1,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/napitok-amsterdam-steklo-045-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "name": "Пиво Балтика №9 крепкое легендарное ПЭТ",
+    "beer_type": "крепкий светлый лагер",
+    "price": 160,
+    "strength": 8.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 1.2,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/12l-pivo-baltika-9-krepkoe-legendarnoe-pet-271067",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "name": "Пиво Guinness Draught Стаут темное",
+    "beer_type": "стаут",
+    "price": 240,
+    "strength": 4.2,
+    "rating": 4.5,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное",
+      "лёгкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "пикник"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер",
+      "жарко",
+      "лето"
+    ],
+    "country": "Ирландия",
+    "volume_l": 0.44,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-guinness-draught-temnoye-0-44l-429932",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "name": "Пивной напиток Krone Blanche Biere ж/б",
+    "beer_type": "бланш",
+    "price": 120,
+    "strength": 4.5,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/napitok-pivnoy-krone-blanche-biere-zhb-045l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "name": "Пиво Peroni Nastro Azzurro",
+    "beer_type": "светлый лагер",
+    "price": 200,
+    "strength": 5.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Италия",
+    "volume_l": 0.33,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/033l-pivo-peroni-st",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "name": "Пиво Жигулевское высший сорт ж/б",
+    "beer_type": "светлый лагер",
+    "price": 80,
+    "strength": 4.0,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-zhigulevskoe-vysshij-sort-zh-b-045-l-109690",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "name": "Пиво Hofbrau Original светлое",
+    "beer_type": "хеллес",
+    "price": 380,
+    "strength": 5.1,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/hofbrau-original-05-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "name": "Пиво Gambrinus Premium темное",
+    "beer_type": "пилзнер",
+    "price": 190,
+    "strength": 4.9,
+    "rating": 4.5,
+    "taste_tags": [
+      "тёмное",
+      "карамельное",
+      "солодовое",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 1.5,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-gambrinus-premium-temnoye-1-5l-x-6-sht-410474",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "name": "Пиво Fruh Kolsch Эль светлое",
+    "beer_type": "кёльш",
+    "price": 2300,
+    "strength": 4.8,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 5.0,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/fruh-kolsch-v-banke-5-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "name": "Пиво Antalya Pilsner светлое",
+    "beer_type": "пилзнер",
+    "price": 180,
+    "strength": 7.0,
+    "rating": 4.6,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Турция",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-antalya-pilsner-svetloe-05l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "name": "Пивной напиток Corona Extra",
+    "beer_type": "светлый эль",
+    "price": 130,
+    "strength": 4.5,
+    "rating": 4.5,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Великобритания",
+    "volume_l": 0.33,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/napitok-corona-extra-033-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "name": "Пиво Жигули Барное Экстра крепкое",
+    "beer_type": "крепкий светлый лагер",
+    "price": 95,
+    "strength": 8.0,
+    "rating": 4.2,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.43,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-zhiguli-barnoe-ekstra-krepkoe-043l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "name": "Пиво Жигулевское Специальное",
+    "beer_type": "светлый лагер",
+    "price": 135,
+    "strength": 4.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 1.2,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/12l-pivo-zhigulevskoe-spets-pet",
+    "price_type": "цена с сайта METRO",
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "name": "Пиво Вятич классическое",
+    "beer_type": "светлый лагер",
+    "price": 90,
+    "strength": 4.9,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-vyatich-klassicheskoye-0-45l-36053",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "name": "Пиво Тагильское пиво светлое",
+    "beer_type": "светлый лагер",
+    "price": 90,
+    "strength": 4.2,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-tagilskoye-pivo-svetloye-0-5l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "name": "Пиво Budweiser Budvar светлое x6",
+    "beer_type": "чешский лагер",
+    "price": 900,
+    "strength": 5.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Чехия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-budweiser-budvar-svetloye-0-5l-x-6-sht",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "name": "Пиво Охота Крепкое светлое",
+    "beer_type": "европейский лагер",
+    "price": 85,
+    "strength": 8.1,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы",
+      "смелое",
+      "вечер"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "холодно",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.43,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/043-l-ohota-krepkoe-zh-b",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "name": "Пиво Булгарпиво Бархатное темное",
+    "beer_type": "темный лагер",
+    "price": 90,
+    "strength": 3.7,
+    "rating": 4.3,
+    "taste_tags": [
+      "тёмное",
+      "карамельное",
+      "солодовое",
+      "мягкое",
+      "лёгкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "пикник"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "дождь",
+      "вечер",
+      "жарко",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-bulgarpivo-barhatnoe-temnoe-045l-x-20-sht",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "name": "Пиво Rodenbach Эль темное",
+    "beer_type": "бельгийский эль",
+    "price": 320,
+    "strength": 5.2,
+    "rating": 4.3,
+    "taste_tags": [
+      "тёмное",
+      "карамельное",
+      "солодовое",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Бельгия",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-tem-f-nep-rodenbah-zhb",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "name": "Пиво Prazacka светлое",
+    "beer_type": "светлый лагер",
+    "price": 220,
+    "strength": 4.0,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "солодовое",
+      "освежающее",
+      "мягкое"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "после учёбы"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки",
+      "лето"
+    ],
+    "country": "Чехия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-prazacka-svetloye-0-5l-419979",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "name": "Пиво Salden's Triple IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 350,
+    "strength": 11.0,
+    "rating": 4.5,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое",
+      "крепкое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки",
+      "холодно"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-saldens-triple-ipa-045l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "name": "Пиво Salden's American IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 260,
+    "strength": 7.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-saldens-american-ipa-045l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "name": "Пиво Harbin пшеничное светлое",
+    "beer_type": "пшеничное",
+    "price": 150,
+    "strength": 3.6,
+    "rating": 4.5,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное",
+      "спокойное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Китай",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-harbin-pshenichnoe-svetloe-st",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "name": "Пиво Pilsner Urquell светлое",
+    "beer_type": "пилзнер",
+    "price": 210,
+    "strength": 4.4,
+    "rating": 4.8,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Чехия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/svetloe-pilsner-urquell-zheleznaya-banka-05-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "name": "Пиво Горьковская пивоварня IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 170,
+    "strength": 5.9,
+    "rating": 4.6,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-gorkovskaya-pivovarnya-ipa-045l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "name": "Пиво Kaiserdom IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 250,
+    "strength": 5.1,
+    "rating": 4.6,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.44,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-kaiserdom-ipa-044l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "name": "Пиво St.Peter's Cream Стаут темное",
+    "beer_type": "стаут",
+    "price": 340,
+    "strength": 6.5,
+    "rating": 4.7,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Великобритания",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/stpeter-039s-krim-staut-st-05-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "name": "Пиво Jaws Атомная прачечная IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 280,
+    "strength": 7.0,
+    "rating": 4.4,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-jaws-atomnaya-prachechnaya-ipa-05l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "name": "Пивной напиток Горьковская пивоварня Шоколадный Стаут",
+    "beer_type": "стаут",
+    "price": 250,
+    "strength": 7.0,
+    "rating": 4.6,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.44,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/napitok-staut-gorkij-v-shoke-shokoladnyj-7-044-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 97,
+    "name": "Пиво Steinbrau Hefeweizen светлое нефильтрованное",
+    "beer_type": "хефевайцен",
+    "price": 210,
+    "strength": 5.3,
+    "rating": 4.3,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-steinbrau-hefeweizen-sv-nef-p-st",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "name": "Пиво Einsiedler Pilsner",
+    "beer_type": "пилзнер",
+    "price": 230,
+    "strength": 4.9,
+    "rating": 4.6,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-einsiedler-pilsener-st",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "name": "Пиво Балтика Brew IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 130,
+    "strength": 7.2,
+    "rating": 4.6,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.44,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-baltika-brew-ipa-044l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "name": "Пиво Jaws Russian Imperial Stout темное",
+    "beer_type": "имперский стаут",
+    "price": 330,
+    "strength": 10.5,
+    "rating": 4.5,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "смелое"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-jaws-russian-imperial-stout-temnoe-05l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 101,
+    "name": "Пиво Erdinger Weissbier светлое пшеничное",
+    "beer_type": "пшеничное",
+    "price": 260,
+    "strength": 5.3,
+    "rating": 4.7,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05-l-erdinger-st-275320",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 102,
+    "name": "Пиво Kastel Pilsner светлое",
+    "beer_type": "пилзнер",
+    "price": 180,
+    "strength": 4.6,
+    "rating": 4.8,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Босния и Герцеговина",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-kastel-pilsner-svetloe-05l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 103,
+    "name": "Пиво Salden's Double IPA Эль светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 310,
+    "strength": 8.5,
+    "rating": 4.5,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое",
+      "крепкое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки",
+      "холодно"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-saldens-double-ipa-045l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 104,
+    "name": "Пиво Балтика Русский имперский стаут",
+    "beer_type": "имперский стаут",
+    "price": 170,
+    "strength": 8.0,
+    "rating": 4.7,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное",
+      "крепкое",
+      "насыщенное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер",
+      "смелое"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.44,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-baltika-russkiy-imperskiy-staut-044l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 105,
+    "name": "Пиво Брянскпиво Бельгийское пшеничное",
+    "beer_type": "пшеничное",
+    "price": 95,
+    "strength": 4.5,
+    "rating": 4.5,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/bryanskpivo-belgijskoe-pshenichnoe-45-045-l",
+    "price_type": "цена с сайта METRO",
+    "notes": ""
+  },
+  {
+    "id": 106,
+    "name": "Пиво Gletcher Bowler IPA светлое",
+    "beer_type": "индийский эль (IPA)",
+    "price": 169,
+    "strength": 6.1,
+    "rating": 4.3,
+    "taste_tags": [
+      "горькое",
+      "хмелевое",
+      "насыщенное",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "вечеринка",
+      "смелое",
+      "активное"
+    ],
+    "weather_tags": [
+      "прохладно",
+      "вечер",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-gletcher-bowler-ipa-svetloye-0-5l",
+    "price_type": "цена с сайта METRO",
+    "notes": ""
+  },
+  {
+    "id": 107,
+    "name": "Пивной напиток Salden's Стаут с лесным орехом темный",
+    "beer_type": "стаут",
+    "price": 296,
+    "strength": 6.3,
+    "rating": 4.4,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.45,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/napitok-pivnoy-saldens-stoute-s-lesnym-orehom-045l",
+    "price_type": "цена с сайта METRO",
+    "notes": ""
+  },
+  {
+    "id": 108,
+    "name": "Пиво Gellert Weizen пшеничное светлое",
+    "beer_type": "пшеничное",
+    "price": 170,
+    "strength": 4.3,
+    "rating": 4.6,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Россия",
+    "volume_l": 1.0,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/pivo-gellert-weizen-pshenichnoe-svetloe-nepasterizovannoe-nefiltrovannoe-1l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 109,
+    "name": "Пиво Peak Pilsner светлое ГОСТ",
+    "beer_type": "пилзнер",
+    "price": 90,
+    "strength": 4.8,
+    "rating": 4.5,
+    "taste_tags": [
+      "лёгкое",
+      "горьковатое",
+      "хмелевое",
+      "освежающее"
+    ],
+    "mood_tags": [
+      "спокойное",
+      "пикник",
+      "весёлое"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "шашлыки"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-peak-pilsner-svetloe-gost-zhb",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 110,
+    "name": "Пиво Йохохо Черный берег Irish Dry Stout темное",
+    "beer_type": "стаут",
+    "price": 190,
+    "strength": 4.5,
+    "rating": 4.3,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Россия",
+    "volume_l": 0.5,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-chernyy-bereg-irish-dry-stout-temnoe-gost-zhb",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 111,
+    "name": "Пиво Weihenstephaner Original Hefeweissbier",
+    "beer_type": "пшеничное",
+    "price": 330,
+    "strength": 5.4,
+    "rating": 4.8,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Германия",
+    "volume_l": 0.5,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/05l-pivo-weihenstephaner-hefeweissbier-st",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 112,
+    "name": "Пивной напиток Double Chocolate Stout",
+    "beer_type": "стаут",
+    "price": 320,
+    "strength": 5.2,
+    "rating": 4.8,
+    "taste_tags": [
+      "тёмное",
+      "кофейное",
+      "жжёный солод",
+      "плотное"
+    ],
+    "mood_tags": [
+      "уютное",
+      "спокойное",
+      "вечер"
+    ],
+    "weather_tags": [
+      "холодно",
+      "дождь",
+      "вечер"
+    ],
+    "country": "Великобритания",
+    "volume_l": 0.44,
+    "color": "Темное",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/napitok-double-chocolate-stout-zh-b-044-l",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  },
+  {
+    "id": 113,
+    "name": "Пиво Cheerday German пшеничное светлое",
+    "beer_type": "пшеничное",
+    "price": 230,
+    "strength": 5.2,
+    "rating": 4.7,
+    "taste_tags": [
+      "лёгкое",
+      "пшеничное",
+      "мягкое",
+      "цитрусовое"
+    ],
+    "mood_tags": [
+      "пикник",
+      "весёлое",
+      "романтичное"
+    ],
+    "weather_tags": [
+      "жарко",
+      "солнечно",
+      "лето"
+    ],
+    "country": "Китай",
+    "volume_l": 1.0,
+    "color": "Светлое",
+    "source_site": "METRO",
+    "source_url": "https://online.metro-cc.ru/products/1l-pivo-cheerday-german-pshenichnoye-svetloye-5-2-zh-b",
+    "price_type": "учебная цена/оценка: не все цены видны без выбранного ТЦ",
+    "notes": ""
+  }
+]
