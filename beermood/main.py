@@ -213,10 +213,10 @@ def apply_mood_filter(current_results, mood_options):
     """
 
     # Показываем доступные теги и запрашиваем настроение
-    print_options("Доступные варианты настроения:", mood_options)
+    print_options("Варианты:", mood_options)
 
     mood = ask_valid_tags(
-        "\nВведите настроение. Можно несколько через запятую: ",
+        "\nКак дела? ",
         mood_options
     )
 
@@ -242,10 +242,10 @@ def apply_weather_filter(current_results, weather_options):
     """
 
     # Показываем доступные теги и запрашиваем погоду
-    print_options("Доступные варианты погоды:", weather_options)
+    print_options("Варианты:", weather_options)
 
     weather = ask_valid_tags(
-        "\nВведите погоду. Можно несколько через запятую: ",
+        "\nЧто на улице?: ",
         weather_options
     )
 
@@ -275,10 +275,10 @@ def apply_taste_filter(current_results, taste_index, taste_options):
     """
 
     # Показываем доступные вкусы и запрашиваем выбор пользователя
-    print_options("Доступные варианты вкуса:", taste_options)
+    print_options("Варианты:", taste_options)
 
     keyword_input = ask_valid_tags(
-        "\nВведите вкус, которого вам сегодня хочется. Можно несколько через запятую: ",
+        "\nВведите вкус, которого вам сегодня хочется:",
         taste_options
     )
 
@@ -360,9 +360,7 @@ def main():
 
         choice = input("Выберите действие: ").strip()
 
-        # =================================================
-        # РЕЖИМ ПОДБОРА РЕКОМЕНДАЦИЙ
-        # =================================================
+        # Режим подбора рекомендаций
 
         if recommendation_mode:
 
@@ -629,9 +627,7 @@ def main():
             recommendation_queue.clear()
             history_stack.clear()
 
-            print("\nРежим подбора рекомендаций включён.")
-            print("Теперь будут показаны только фильтры и команда рекомендации.")
-            print("Фильтры будут запоминаться без вывода списка напитков.")
+            print("\nРежим подбора рекомендаций включён!")
 
         # 8. Отменить последнее действие
 
